@@ -1,1 +1,1 @@
-comb.c
+comb3
