@@ -1,1 +1,1 @@
-comb 4
+print comb
